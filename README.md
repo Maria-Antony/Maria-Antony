@@ -16,18 +16,26 @@ Here are some ideas to get you started:
 
 <p><em>👩‍🎓 Graduate Student at University at Buffalo - SUNY </br>💻 Ex-AI Engineer from Bosch Global Software Technologies</br>👩‍🎓 Undergraduate Electronics student from Kumaraguru College of Technology</em></p>
 
+
+<img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width="230">
+
 ## 🚀 About Me
 
 <div align="center">
 
 ⚡ Tech geek with an AI brain and an electronics heart!</br>
 🤖 I make machines think and circuits blink!</br>
-🚀 Always on a mission to break things (then fix them)!
+🚀 Always on a mission to break things (then fix them)!</br>
+
+💡 Turning ideas into code, and code into reality!</br>
+🧠 Training AI models by day, debugging them by night!</br>
+🔬 Exploring the intersection of AI, electronics, and innovation!</br>
+🛠️ Building intelligent systems—one circuit and one algorithm at a time!</br>
+📡 Decoding signals, processing data, and making tech smarter!</br>
+🕵️‍♂️ Finding patterns in chaos—because AI sees what we can’t!</br>
+🎯 Chasing efficiency, automation, and the next big breakthrough!</br>
 
 </div>
-
-<img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width="400px" style="border-radius: 10px;"/>
-
 
 ### 🛠️ Technologies & Tools
 
