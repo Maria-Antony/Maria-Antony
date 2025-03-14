@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <p><em>👩‍🎓 Graduate Student at University at Buffalo - SUNY </br>💻 Ex-AI Engineer from Bosch Global Software Technologies</br>👩‍🎓 Undergraduate Electronics student from Kumaraguru College of Technology</em></p>
 
-<img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width="230">
-
 ## 🚀 About Me
+
+<img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width="230">
 
 <div align="center">
 
