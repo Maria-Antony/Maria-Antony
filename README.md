@@ -22,18 +22,19 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-⚡ Tech geek with an AI brain and an electronics heart!</br>
-🤖 I make machines think and circuits blink!</br>
-🚀 Always on a mission to break things (then fix them)!</br>
-🧠 Training AI models by day, debugging them by night!</br>
-📡 Decoding signals, processing data, and making tech smarter!</br>
-🕵️‍♂️ Finding patterns in chaos—because AI sees what we can’t!</br>
+```python
+maria = {
+    "pronouns": ["she", "her"],
+    "code": ["Python,"C","C++","HTML", "CSS", "MATLAB","Embedded C","PLC","Verilog"],
+    "hobby": ["Watching Movies", "Playing and hearning Music", "Adventurer"],
+    "Advice": ['Take a nice walk for a coffee when you are bored, I mean it']
+}
 
-## 🌐 Connect with Me  
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-Antony)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pushparaj)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6f00.svg?&style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio.com](https://maria-antony.github.io/Portfolio-website/))  
+
+
+
 
 </div>
 
