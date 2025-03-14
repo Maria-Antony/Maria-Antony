@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 maria = {
     "pronouns": ["she", "her"],
     "code": ["Python,"C","C++","HTML", "CSS", "MATLAB","Embedded C","PLC","Verilog"],
-    "hobby": ["Watching Movies", "Playing and hearning Music", "Adventurer"],
+    "hobby": ["Watching Movies", "Playing and Listening Music", "Adventurer"],
     "Advice": ['Take a nice walk for a coffee when you are bored, I mean it']
 }
 
 ```
+
+
 
 
 
