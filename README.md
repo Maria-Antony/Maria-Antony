@@ -50,6 +50,9 @@ maria = {
 
 ---
 
+
+
+
 ## 🛠️ Technologies & Tools  
 
 ### **💻 Programming Languages:**  
