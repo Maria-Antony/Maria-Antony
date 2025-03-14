@@ -15,50 +15,16 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:1e90ff&height=200&section=header&text=Hi%20there!%20I'm%20Maria%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-<!--
+
 ## 🚀 About Me
 
-![Anime Character]([https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)) 
+![Anime Character](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)
 
 <h3 align="center">
   ⚡ Tech geek with an AI brain and an electronics heart! 💡<br>
   🤖 I make machines think and circuits blink!<br>
   🚀 Always on a mission to break things (then fix them)!
 </h3>
-
-
-
-## 🚀 About Me
-
-<table>
-  <tr>
-    <td>
-      <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" width="300" alt="Mio Akiyama">
-    </td>
-    <td>
-      <h3>
-        ⚡ Tech geek with an AI brain and an electronics heart! 💡<br>
-        🤖 I make machines think and circuits blink!<br>
-        🚀 Always on a mission to break things (then fix them)!
-      </h3>
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;AI+Engineer+%7C+Electronics+Specialist;Machine+Learning+%7C+Embedded+Systems;Innovator+and+Tech+Explorer!">
-      </p>
-    </td>
-  </tr>
-</table>
-
--->
-
-## 🚀 About Me
-
-<img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" width="300" align="left" alt="Mio Akiyama">
-
-### ⚡ Tech geek with an AI brain and an electronics heart! 💡  
-### 🤖 I make machines think and circuits blink!  
-### 🚀 Always on a mission to break things (then fix them)! 
-
-
 
 ### 🛠️ Technologies & Tools
 
