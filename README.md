@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-![Anime Character]([https://i.imgur.com/JzQp4Ky.gif](https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif))  
+![Anime Character](https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif) 
 
 ```diff
 + ⚡ Tech geek with an AI brain and an electronics heart! 💡
