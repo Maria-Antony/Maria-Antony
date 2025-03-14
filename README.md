@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 <img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width="230">
 
-<div align="center">
+<div align="right">
 
 ```python
+
 maria = {
     "pronouns": ["she", "her"],
     "code": ["Python,"C","C++","HTML", "CSS", "MATLAB","Embedded C","PLC","Verilog"],
