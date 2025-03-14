@@ -108,25 +108,4 @@ maria = {
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/Maria-Antony" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/maria-pushparaj" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn">
-  </a>
-    <a href="https://maria-antony.github.io/Portfolio-website/" target="_blank">
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-portfolio-business-flatart-icons-outline-flatarticons.png" width="40" height="40" alt="Portfolio">
-  </a>
-</p>
-
-<!--
--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pushparaj)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-Antony)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6f00.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://maria-antony.github.io/Portfolio-website/)
---->
----
 
