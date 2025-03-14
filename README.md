@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="[https://i.imgur.com/kLzqhuV.gif](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)" width="300" alt="Mio Akiyama">
+      <img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" width="300" alt="Mio Akiyama">
     </td>
     <td>
       <h3>
