@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width="230">
 
-<div align="right">
+<div align="left">
 
 ```python
 
