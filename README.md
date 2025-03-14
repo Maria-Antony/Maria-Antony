@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Maria-Antony/Maria-Antony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
   🚀 Always on a mission to break things (then fix them)!
 </h3>
 
--->
+
 
 ## 🚀 About Me
 
@@ -49,6 +47,16 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+-->
+
+## 🚀 About Me
+
+<img src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif" width="300" align="left" alt="Mio Akiyama">
+
+### ⚡ Tech geek with an AI brain and an electronics heart! 💡  
+### 🤖 I make machines think and circuits blink!  
+### 🚀 Always on a mission to break things (then fix them)! 
 
 ### 🛠️ Technologies & Tools
 
