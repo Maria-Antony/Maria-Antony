@@ -17,10 +17,17 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:1e90ff&height=200&section=header&text=Hi%20there!%20I'm%20Maria%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-### 🚀 About Me
-I'm an AI Enthusiast passionate about Machine Learning, Deep Learning, NLP, and Edge Computing. I love building AI-driven solutions and working on innovative research in AI & embedded systems.
+## 🚀 About Me
 
----
+![Anime Character]([https://i.imgur.com/JzQp4Ky.gif](https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif))  
+
+```diff
++ ⚡ Tech geek with an AI brain and an electronics heart! 💡
++ 🤖 I make machines think and circuits blink!
++ 🚀 Always on a mission to break things (then fix them)!
+```
+
+![Profile Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;AI+Engineer+%7C+Electronics+Specialist;Machine+Learning+%7C+Embedded+Systems;Innovator+and+Tech+Explorer!)
 
 ### 🛠️ Technologies & Tools
 
