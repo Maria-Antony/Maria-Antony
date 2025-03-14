@@ -46,6 +46,8 @@ maria = {
 
 </div>
 
+
+<!--
 ## 🛠️ Technologies & Tools  
 
 ### **💻 Programming Languages:**  
@@ -76,7 +78,7 @@ maria = {
 ![Explainable AI](https://img.shields.io/badge/xAI-232F3E?style=for-the-badge&logo=ai&logoColor=white)  
 ![Graph Neural Networks](https://img.shields.io/badge/GNNs-FF6F00?style=for-the-badge&logo=neo4j&logoColor=white)  
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-800080?style=for-the-badge&logo=unity&logoColor=white) 
-![AI for Autonomous Systems](https://img.shields.io/badge/AI%20for%20Autonomous%20Systems-0A66C2?style=for-the-badge&logo=nvidia&logoColor=white)  
+![AI for Autonomous Systems](https://img.shields.io/badge/AI%20for%20Autonomous%20Systems-0A66C2?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Edge AI](https://img.shields.io/badge/Edge%20AI-007396?style=for-the-badge&logo=raspberrypi&logoColor=white)  
 ![MLOps](https://img.shields.io/badge/MLOps-FF5733?style=for-the-badge&logo=aws&logoColor=white)  
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)  
@@ -96,12 +98,73 @@ maria = {
 ![FPGA](https://img.shields.io/badge/FPGA-00427F?style=for-the-badge&logo=xilinx&logoColor=white)  
 ![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-00A6A6?style=for-the-badge&logo=edgeimpulse&logoColor=white)  
 
+-->
+
+## 🛠️ Technologies & Tools  
+
+### **💻 Programming Languages:**  
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+</div>  
+
+### **🧠 AI/ML Frameworks:**  
+<div>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JAX-0072C6?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</div>  
+
+### **📊 Data Science & AI:**  
+<div>
+  <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-00979D?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-764ABC?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-FE7A16?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/xAI-232F3E?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GNNs-FF6F00?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-800080?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20for%20Autonomous%20Systems-0A66C2?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edge%20AI-007396?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-FF5733?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-4682B4?style=for-the-badge&logo=powerbi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Big%20Data-20C20E?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20AI-FF9900?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</div>  
+
+### **☁️ Cloud & DevOps:**  
+<div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</div>  
+
+### **🔧 Embedded & Electronics:**  
+<div>
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge&logo=intel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FPGA-00427F?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edge%20Impulse-00A6A6?style=for-the-badge&logo=edgeimpulse&logoColor=white"/>
+</div>  
+
 ---
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pushparaj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-Antony)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6f00.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://maria-antony.github.io/Portfolio-website/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6f00.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://maria-antony.github.io/Portfolio-website/)
 ---
 
 
