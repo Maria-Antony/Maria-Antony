@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-<img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width='230'>
-
 <div align="center">
 
 ⚡ Tech geek with an AI brain and an electronics heart!</br>
@@ -27,6 +25,9 @@ Here are some ideas to get you started:
 🚀 Always on a mission to break things (then fix them)!
 
 </div>
+
+<img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width="400px" style="border-radius: 10px;"/>
+
 
 ### 🛠️ Technologies & Tools
 
