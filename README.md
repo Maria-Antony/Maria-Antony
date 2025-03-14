@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 📡 Decoding signals, processing data, and making tech smarter!</br>
 🕵️‍♂️ Finding patterns in chaos—because AI sees what we can’t!</br>
 
+## 🌐 Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-Antony)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pushparaj)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6f00.svg?&style=for-the-badge&logo=firefox&logoColor=white)]([https://your-portfolio.com](https://maria-antony.github.io/Portfolio-website/))  
+
 </div>
 
 ### 🛠️ Technologies & Tools
