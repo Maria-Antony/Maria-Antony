@@ -67,8 +67,21 @@ maria = {
 
 ### **📊 Data Science & AI:**  
 
-![Graph Neural Networks](https://img.shields.io/badge/GNNs-FF6F00?style=for-the-badge&logo=neo4j&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00979D?style=for-the-badge&logo=opencv&logoColor=white)  
+![Natural Language Processing](https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge&logo=spacy&logoColor=white)  
+![Transformers](https://img.shields.io/badge/Transformers-764ABC?style=for-the-badge&logo=huggingface&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FE7A16?style=for-the-badge&logo=OpenAI&logoColor=white)  
 ![Explainable AI](https://img.shields.io/badge/xAI-232F3E?style=for-the-badge&logo=ai&logoColor=white)  
+![Graph Neural Networks](https://img.shields.io/badge/GNNs-FF6F00?style=for-the-badge&logo=neo4j&logoColor=white)  
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-800080?style=for-the-badge&logo=unity&logoColor=white) 
+![AI for Autonomous Systems](https://img.shields.io/badge/AI%20for%20Autonomous%20Systems-0A66C2?style=for-the-badge&logo=nvidia&logoColor=white)  
+![Edge AI](https://img.shields.io/badge/Edge%20AI-007396?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![MLOps](https://img.shields.io/badge/MLOps-FF5733?style=for-the-badge&logo=aws&logoColor=white)  
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4682B4?style=for-the-badge&logo=powerbi&logoColor=white)  
+![Big Data](https://img.shields.io/badge/Big%20Data-20C20E?style=for-the-badge&logo=apachehadoop&logoColor=white)  
+![Cloud AI](https://img.shields.io/badge/Cloud%20AI-FF9900?style=for-the-badge&logo=googlecloud&logoColor=white)  
 
 ### **☁️ Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
@@ -83,24 +96,12 @@ maria = {
 ![FPGA](https://img.shields.io/badge/FPGA-00427F?style=for-the-badge&logo=xilinx&logoColor=white)  
 ![Edge Impulse](https://img.shields.io/badge/Edge%20Impulse-00A6A6?style=for-the-badge&logo=edgeimpulse&logoColor=white)  
 
-### 📊 GitHub Stats & Activity
-
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 Contributions & Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight)
-
 ---
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-pushparaj)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maria-Antony)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6f00.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://maria-antony.github.io/Portfolio-website/))  
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:ff5733&height=150&section=footer)
 
