@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-⚡ Tech geek with an AI brain and an electronics heart! 💡
-🤖 I make machines think and circuits blink!
+⚡ Tech geek with an AI brain and an electronics heart!</br>
+🤖 I make machines think and circuits blink!</br>
 🚀 Always on a mission to break things (then fix them)!
 
 </div>
