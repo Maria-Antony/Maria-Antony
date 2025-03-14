@@ -47,6 +47,9 @@ maria = {
 </div>
 
 
+
+---
+
 ## 🛠️ Technologies & Tools  
 
 ### **💻 Programming Languages:**  
