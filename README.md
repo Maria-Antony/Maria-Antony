@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 -->
 <h2> Hi, I'm Maria! <img src="https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif" width="50"></h2>
 
+<h3 align="left">
+  👩‍🎓 Graduate Student from University at Buffalo 💡<br>
+  💻 Ex - AI Engineer from Bosch Global Software Technologies
+  🤖 Undergraduate from Kumaraguru College of Technology<br>
+</h3>
+
 ## 🚀 About Me
 
-![Anime Character](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)
+<img align='left' src = 'https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif' width='230'>
 
-<h3 align="center">
+<h3 align="right">
   ⚡ Tech geek with an AI brain and an electronics heart! 💡<br>
   🤖 I make machines think and circuits blink!<br>
   🚀 Always on a mission to break things (then fix them)!
