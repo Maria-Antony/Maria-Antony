@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff5733,100:1e90ff&height=200&section=header&text=Hi%20there!%20I'm%20Maria%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn)
-
+<h2> Hi, I'm Maria! <img src="https://pic.funnygifsbox.com/uploads/2021/03/funnygifsbox.com-2021-03-15-14-57-02-64.gif" width="50"></h2>
 
 ## 🚀 About Me
 
