@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm Maria! <img src="https://pic.funnygifsbox.com/uploads/2021/03/funnygifsbox.com-2021-03-15-14-57-02-64.gif" width="50"></h2>
+<h2> Hi, I'm Maria! <img src="https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif" width="50"></h2>
 
 ## 🚀 About Me
 
