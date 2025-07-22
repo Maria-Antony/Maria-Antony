@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> Hi, I'm Maria! <img src="https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif" width="50"></h2>
+<h2> Hi, I'm Maria! <img src="[https://i.pinimg.com/originals/88/e7/66/88e7663123544c7d7bbba95d0ab10a76.gif](https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.gif)" width="50"></h2>
 
 <p><em>👩‍💼 Graduate Research Assistant at University at Buffalo - SUNY</br>👩‍🎓 AI Graduate Student from University at Buffalo - SUNY </br>💻 Ex-AI Engineer from Bosch Global Software Technologies</br>👩‍🎓 Undergraduate Electronics student from Kumaraguru College of Technology</em></p>
 
