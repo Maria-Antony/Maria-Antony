@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-<img align='left' src = 'https://giffiles.alphacoders.com/121/12113.gif' width="230">
+<img align='left' src = 'https://i.pinimg.com/originals/00/86/29/008629c50c10499f0f37b170190d1a6f.gif' width="230">
 
 <div align="left">
 
