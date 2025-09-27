@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-<img align='left' src = 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fin-2024--2181499815313891%2F&psig=AOvVaw1v6aEqT5f7__HLC7VBSxeW&ust=1759023232457000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICep6rm948DFQAAAAAdAAAAABBQ' width="230">
+<img align='left' src = 'https://giffiles.alphacoders.com/121/12113.gif' width="230">
 
 <div align="left">
 
